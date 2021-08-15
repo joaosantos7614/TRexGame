@@ -1,0 +1,19 @@
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.exe
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.deps.json
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.runtimeconfig.json
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.runtimeconfig.dev.json
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.dll
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\ref\T-Rex Game.dll
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\bin\Debug\net5.0-windows\T-Rex Game.pdb
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csprojAssemblyReference.cache
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T_Rex_Game.Form1.resources
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T_Rex_Game.Properties.Resources.resources
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.GenerateResource.cache
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.AssemblyInfo.cs
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.dll
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\ref\T-Rex Game.dll
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.pdb
+C:\Users\João\source\repos\T-Rex Game\T-Rex Game\obj\Debug\net5.0-windows\T-Rex Game.genruntimeconfig.cache
